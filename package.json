@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/morsecode",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "Morse Code is a simple tool for encoding and decoding Morse code. It returns the encoded or decoded Morse code.",
   "main": "index.js",
   "scripts": {
